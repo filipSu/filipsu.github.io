@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charSet="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><style data-href="/1.css">.button-v2 {
+.button-v2 {
   transition: all 250ms cubic-bezier(0.23, 1, 0.32, 1) 50ms;
   display: flex;
   align-items: center;
@@ -172,4 +172,4 @@
   align-items: center; }
 
 
-/*# sourceMappingURL=1.css.map*/</style><title data-react-helmet="true"></title><link as="script" rel="preload" href="/component---src-pages-index-tsx-a6edb0265637d1c92246.js"/><link as="script" rel="preload" href="/app-a795827468217000fc5f.js"/><link as="script" rel="preload" href="/webpack-runtime-8ae34c7667250ea1c04e.js"/><link rel="preload" href="/static/d/173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E.json" as="fetch" crossOrigin="use-credentials"/></head><body><div id="___gatsby"><div style="outline:none" tabindex="-1" role="group"><div><h1>Hi people</h1><p>Welcome to your new site.</p><button class="button-v2 button-v2--primary"><span>Click me</span></button></div></div></div><script id="gatsby-script-loader">/*<![CDATA[*/window.page={"componentChunkName":"component---src-pages-index-tsx","jsonName":"index","path":"/"};window.dataPath="173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E";/*]]>*/</script><script src="/webpack-runtime-8ae34c7667250ea1c04e.js" async=""></script><script src="/app-a795827468217000fc5f.js" async=""></script><script src="/component---src-pages-index-tsx-a6edb0265637d1c92246.js" async=""></script></body></html>
+/*# sourceMappingURL=1.css.map*/
